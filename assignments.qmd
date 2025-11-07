@@ -141,10 +141,9 @@ I encourage you to complete assignments in Jupyter notebooks (`.ipynb`), Word do
 ## Final Group Project
 
 **Due:** End of Semester  
-**Format:** Groups of 3-4 students  
+**Format:** Groups of 4-5 students  
 **Components:**
 - Written report on an AI application
-- Short demo video
 - Harms assessment
 - Conceptual analysis
 
@@ -159,9 +158,8 @@ More detailed instructions for the final project will be provided in class durin
 ## Submission Guidelines
 
 ### File Formats
-- **Preferred:** Jupyter notebooks (`.ipynb`) with clear documentation
-- **Alternative:** Word documents or PDFs with code screenshots
-- **Final Project:** Report (PDF) + demo video (MP4)
+- **Preferred:** Jupyter notebooks (`.ipynb`) with clear documentation, Word documents, or PDFs
+- **Final Project:** Report (PDF) 
 
 ### Collaboration Policy
 - Discussion with classmates is encouraged for conceptual understanding

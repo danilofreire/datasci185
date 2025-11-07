@@ -75,6 +75,7 @@ Readings:
 An intuitive view of tokenisation, vector representations and contextual meaning.
 
 Readings:
+
 - Neptune.ai (2025). [The ultimate guide to word embeddings.](https://neptune.ai/blog/word-embeddings-guide) The title is a bit grandiose, but this is a clear and practical introduction to word embeddings. Includes Python code snippets.
 - Neptune.ai (2025). [Tokenization in NLP: types, challenges, examples, tools.](https://neptune.ai/blog/tokenization-in-nlp) Another article by the same group, this time on tokenisation. Also includes code snippets.
 - StackOverflow (2023). [An intuitive introduction to text embeddings.](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) A practical introduction to embeddings, with simple examples.
@@ -85,6 +86,7 @@ Readings:
 Abstraction, convolution and the role of large datasets.
 
 Readings:
+
 - O'Shea, K., & Nash, R. (2015). [An introduction to convolutional neural networks.](https://arxiv.org/abs/1511.08458) *arXiv preprint* arXiv:1511.08458. A clear and concise tutorial.
 - DataCamp (2025). [What is computer vision? A beginner guide to image analysis.](https://www.datacamp.com/blog/what-is-computer-vision) Simple and illustrated introduction to computer vision concepts.
 - AltexSoft (2025). [How AI sound, music, and voice generation works.](https://www.altexsoft.com/blog/sound-music-voice-generation/) Another practical introduction. A nice reading!
@@ -153,6 +155,7 @@ Readings:
 Datasheets, model cards and provenance.  
 
 Readings:
+
 - Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). [Datasheets for datasets.](https://arxiv.org/abs/1803.09010) *arXiv preprint* arXiv:1803.09010. The original paper proposing datasheets for datasets.
 - Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019). [Model cards for model reporting.](https://arxiv.org/abs/1810.03993) *Proceedings of the Conference on Fairness, Accountability, and Transparency* (pp. 220-229). The original paper proposing model cards.
 - Bender, E. M., & Friedman, B. (2018). [Data statements for natural language processing: Toward mitigating system bias and enabling better science.](https://www.aclweb.org/anthology/Q18-1041/) In *Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing* (pp. 1-14). A proposal for data statements to accompany NLP datasets.
@@ -163,6 +166,7 @@ Readings:
 Examples that illustrate impact and possible mitigations.
 
 Readings:
+
 - Rudin, C. (2019). [Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead.](https://www.nature.com/articles/s42256-019-0048-x) *Nature machine intelligence*, 1(5), 206-215. A strong argument for using interpretable models in important aspects of life.
 - Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). [Dissecting racial bias in an algorithm used to manage the health of populations.](https://science.sciencemag.org/content/366/6464/447) *Science*, *366*(6464), 447-453. A landmark study showing how a widely used health algorithm exhibited racial bias.
 - Buolamwini, J., & Gebru, T. (2018). [Gender shades: Intersectional accuracy disparities in commercial gender classification.](http://proceedings.mlr.press/v81/buolamwini18a.html) *Proceedings of Machine Learning Research*, *81*, 1-15. A study revealing bias in facial recognition systems.
@@ -220,6 +224,7 @@ Covers Lectures 19–21.
 Risks and benefits for public-sector applications.
 
 Readings:
+
 - Davenport, T., & Kalakota, R. (2019). [The potential for artificial intelligence in healthcare.](https://www.sciencedirect.com/science/article/pii/S2514664524010592) *Future healthcare journal*, 6(2), 94-98.
 - Aung, Y. Y., Wong, D. C., & Ting, D. S. (2021). [The promise of artificial intelligence: a review of the opportunities and challenges of artificial intelligence in healthcare.](https://academic.oup.com/bmb/advance-article-pdf/doi/10.1093/bmb/ldab016/40343944/ldab016.pdf) *British medical bulletin*, 139(1), 4-15. This article complements the previous one.
 - Zhai, X., Chu, X., Chai, C. S., Jong, M. S. Y., Istenic, A., Spector, M., ... & Li, Y. (2021). [A review of artificial intelligence (AI) in education from 2010 to 2020.](https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/8812542) *Complexity*, 2021(1), 8812542. A comprehensive review on that topic.
@@ -230,6 +235,7 @@ Readings:
 Technical features and societal responses to synthetic media.
 
 Readings:
+
 - Helmus, T. C. (2022). [Artificial intelligence, deepfakes, and disinformation: A primer.](https://www.rand.org/pubs/perspectives/PEA1043-1.html) *RAND Corporation*. Very accessible introduction to the topic.
 - Mustak, M., Salminen, J., Mäntymäki, M., Rahman, A., & Dwivedi, Y. K. (2023). [Deepfakes: Deceptions, mitigations, and opportunities.](https://doi.org/10.1016/j.jbusres.2022.113368) *Journal of Business Research*, 154, 113368. Focused on business applications.
 - Chesney, R., & Citron, D. K. (2019). [Deepfakes and the new disinformation war: The coming age of post-truth geopolitics.](https://www.foreignaffairs.com/articles/world/2018-12-11/deepfakes-and-new-disinformation-war) *Foreign Affairs*. A legal perspective on deepfakes and misinformation.
