@@ -42,6 +42,7 @@ I encourage you to complete assignments in Jupyter notebooks (`.ipynb`), Word do
 ### Module 0 — Orientation
 
 **Problem Set 1** (Due: Week 3)
+
 - Topics: Course introduction, AI overview, history of AI, transformer architecture
 - Covers: Lectures 1-2
 - Focus: Understanding AI concepts, historical context, and current applications
@@ -49,76 +50,90 @@ I encourage you to complete assignments in Jupyter notebooks (`.ipynb`), Word do
 ### Module 1 — How AI systems are designed
 
 **Problem Set 2** (Due: Week 5)
+
 - Topics: Dataset design, supervised vs unsupervised learning
 - Covers: Lectures 3-4
 - Focus: Data quality, learning paradigms, and basic ML concepts
 
 **Problem Set 3** (Due: Week 6)
+
 - Topics: Metrics, validation, overfitting
 - Covers: Lecture 5
 - Focus: Model evaluation, performance metrics, and validation techniques
 
 **Quiz 1** (Week 6)
+
 - Covers: Modules 0-1 (Lectures 1-5)
 - Format: In-class, open book, individual work
 
 ### Module 2 — Language and perception
 
 **Problem Set 4** (Due: Week 8)
+
 - Topics: Language processing, embeddings, computer vision
 - Covers: Lectures 7-8
 - Focus: Understanding how AI processes text, images, and audio
 
 **Quiz 2** (Week 10)
+
 - Covers: Module 2 (Lectures 7-9)
 - Format: In-class, open book, individual work
 
 ### Module 3 — Retrieval, generation and pipelines
 
 **Problem Set 5** (Due: Week 10)
+
 - Topics: RAG, vector search, hallucination
 - Covers: Lectures 11-12
 - Focus: Modern AI systems, retrieval augmentation, and reliability issues
 
 **Problem Set 6** (Due: Week 11)
+
 - Topics: Pipeline monitoring, testing, production systems
 - Covers: Lecture 13
 - Focus: Practical aspects of deploying and maintaining AI systems
 
 **Quiz 3** (Week 11)
+
 - Covers: Module 3 (Lectures 11-13)
 - Format: In-class, open book, individual work
 
 ### Module 4 — Data ethics and bias
 
 **Problem Set 7** (Due: Week 13)
+
 - Topics: Types of bias, fairness, documentation
 - Covers: Lectures 15-16
 - Focus: Ethical considerations, bias identification, and governance
 
 **Problem Set 8** (Due: Week 14)
+
 - Topics: Case studies, real-world applications
 - Covers: Lecture 17
 - Focus: Analysis of biased outcomes in various domains
 
 **Quiz 4** (Week 14)
+
 - Covers: Module 4 (Lectures 15-17)
 - Format: In-class, open book, individual work
 
 ### Module 5 — Policy, governance and social impact
 
 **Problem Set 9** (Due: Week 16)
+
 - Topics: AI regulation, privacy, data protection
 - Covers: Lectures 19-20
 - Focus: Legal frameworks, policy implications, and privacy concerns
 
 **Quiz 5** (Week 16)
+
 - Covers: Module 5 (Lectures 19-21)
 - Format: In-class, open book, individual work
 
 ### Module 6 — Applications, limits and projects
 
 **Problem Set 10** (Due: Week 17)
+
 - Topics: AI applications, misinformation, societal impact
 - Covers: Lectures 23-24
 - Focus: Real-world applications and their consequences

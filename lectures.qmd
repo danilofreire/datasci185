@@ -10,6 +10,7 @@ Please find below the schedule of our lectures. Each lecture includes a brief de
 Syllabus, assessment, expectations. A factual tour of AI in products and media and the questions we will address.
 
 Readings:
+
 - Stanford University's Human-Centered Artificial Intelligence (2025). [AI Index Annual Report](https://hai.stanford.edu/ai-index/2025-ai-index-report). An excellent report on the state of AI, with many useful charts and references.
 - Our World in Data (2025). [Artificial intelligence](https://ourworldindata.org/artificial-intelligence). A concise overview of AI trends and applications, with links to further resources.
 - Menlo Ventures (2025). [2025: the state of consumer AI](https://menlovc.com/perspective/2025-the-state-of-consumer-ai/). How AI is being used in consumer products, with examples and market data.
@@ -20,6 +21,7 @@ Readings:
 From symbolic approaches to data-driven learning; the transformer architecture explained in plain language.
 
 Readings:
+
 - Dick, S. (2019). [Artificial intelligence.](https://doi.org/10.1162/99608f92.92fe150c) *Harvard Data Science Review*, *1*(1). A brief history of AI research and applications. Written for a general audience.
 - Grzybowski, A., Pawlikowska–Łagód, K., & Lambert, W. C. (2024). [A history of artificial intelligence.](https://doi.org/10.1016/j.clindermatol.2023.12.016) *Clinics in Dermatology*, *42*(3), 221-229. A "pre-history" overview, focusing on early ideas and milestones.
 - Cao, Y., Liu, L., Li, M., Huang, Y., & Li, S. (2023). [A comprehensive survey of AI-generated content (AIGC): A history of generative AI from GAN to ChatGPT.](https://arxiv.org/abs/2303.04226) *arXiv preprint*. A somewhat technical but comprehensive overview of generative AI methods.
@@ -35,6 +37,7 @@ Readings:
 What data are, how tasks are framed, and common pitfalls in dataset design.  
 
 Readings:
+
 - Athalye, A., Northcutt, C., & Mueller, J. (2024). [Dataset creation and curation](https://dcai.csail.mit.edu/2024/dataset-creation-curation/) in *Data-Centric AI*. A chapter from a forthcoming book on data-centric AI, covering the main ideas in dataset design.
 - Sapien Labs. (2024). [Labeling data for machine learning: best practices and quality control.](https://www.sapien.io/blog/labeling-data-for-machine-learning-best-practices-and-quality-control) A practical guide to data labeling, with tips and common pitfalls.
 - Liang, W., Tadesse, G. A., Ho, D., Fei-Fei, L., Zaharia, M., Zhang, C., & Zou, J. (2022). [Advances, challenges and opportunities in creating data for trustworthy AI.](https://www.nature.com/articles/s42256-022-00516-1) *Nature Machine Intelligence*, 4(8), 669-677. A good discussion on the challenges of creating high-quality datasets.
@@ -45,6 +48,7 @@ Readings:
 What learning means and why generalisation is difficult.
 
 Readings:
+
 - Amazon Web Services (2025). [What is the difference between supervised and unsupervised learning?](https://aws.amazon.com/compare/the-difference-between-machine-learning-supervised-and-unsupervised/) A practical overview of supervised and unsupervised learning, with examples.
 - Lee, F. (2025). [What is bias-variance tradeoff?](https://www.ibm.com/think/topics/bias-variance-tradeoff) An explanation of a key concept in machine learning. It has some formulas but the main ideas are easy to grasp.
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Chapter 5: Machine learning basics](https://www.deeplearningbook.org/contents/ml.html) in *Deep Learning*. A technical but clear introduction to the main ideas behind machine learning.
@@ -56,6 +60,7 @@ Readings:
 Confusion matrices, precision and recall, cross-validation and the limits of single-number metrics.
 
 Readings:
+
 - Akinkugbe, A. (2025). [The essential guide to model evaluation metrics for classification.](https://pub.towardsai.net/the-essential-guide-to-model-evaluation-metrics-for-classification-560efee6f445) A practical guide to common evaluation metrics, with examples and case studies.
 - Thomas, R. L., & Uminsky, D. (2022). [Reliance on metrics is a fundamental challenge for AI.](https://www.cell.com/patterns/fulltext/S2666-3899(22)00056-3) *Patterns*, 3(5).100440. A discussion of the limitations of metrics and how they can be gamed or misinterpreted.
 - Montesinos López, O. A., Montesinos López, A., & Crossa, J. (2022). [Overfitting, model tuning, and evaluation of prediction performance.](https://link.springer.com/chapter/10.1007/978-3-030-89010-0_4) In *Multivariate statistical machine learning methods for genomic prediction* (pp. 109-139). Cham: Springer International Publishing. Good chapter, worth reading even if you don't understand all the maths.
@@ -100,6 +105,7 @@ Covers Lectures 7–9.
 Augmenting generation with retrieval; vector search and chunking explained for practitioners.
 
 Readings:
+
 - Amazon Web Services (2025). [What is retrieval-augmented generation (RAG)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/) Beginners' guide to RAG by people who know what they're talking about.
 - Erikson, J. (2024). [What is vector search? The ultimate guide.](https://aws.amazon.com/what-is/retrieval-augmented-generation/) Yes, the grandiose titles are a trend. The article is pretty good, though.
 - Mastering LLM (2024). [11 chunking strategies for RAG — simplified & visualized](https://masteringllm.medium.com/11-chunking-strategies-for-rag-simplified-visualized-df0dbec8e373) Very nice explanation of chunking strategies, with diagrams.
@@ -110,6 +116,7 @@ Readings:
 Why models invent facts and how to spot and reduce hallucination.
 
 Readings:
+
 - Jiang, X., Tian, Y., Hua, F., Xu, C., Wang, Y., & Guo, J. (2024). [A survey on large language model hallucination via a creativity perspective.](https://arxiv.org/abs/2402.06647) *arXiv preprint* arXiv:2402.06647. Very nice article showing how hallucinations can be used creatively.
 - Tonmoy, S. M. T. I., Zaman, S. M., Jain, V., Rani, A., Rawte, V., Chadha, A., & Das, A. (2024). [A comprehensive survey of hallucination mitigation techniques in large language models.](https://arxiv.org/abs/2401.01313) *arXiv preprint* arXiv:2401.01313, 6. The article is quite detailed and lists a series of techniques to reduce hallucinations. No need to know them all, just to know they exist and how they work in principle.
 - Wikipedia (2025). [Hallucination (artificial intelligence).](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)) Wikipedia actually has some good articles on AI topics. This one is a well-written overview of hallucinations.
@@ -121,6 +128,7 @@ Readings:
 Overview of simple strategies for AI evaluation; what operational teams track.  
 
 Readings:
+
 - Google (2025). [Production ML systems: monitoring pipelines.](https://developers.google.com/machine-learning/crash-course/production-ml-systems/monitoring) If there's one company that knows how to run ML systems at scale, it's Google. This is a practical guide to monitoring ML pipelines. If you are unfamiliar with some terms, don't worry too much; the main ideas are easy to grasp. Use AI to help you if needed!
 - Allen, J. (2024). [Data pipeline monitoring: best practices for full observability.](https://www.prefect.io/blog/data-pipeline-monitoring-best-practices) Informal and full of practical tips. Some technical terms too, but nothing too difficult.
 - Steidl, M., Felderer, M., & Ramler, R. (2023). [The pipeline for the continuous development of artificial intelligence models--current state of research and practice.](https://arxiv.org/abs/2301.09001) *arXiv e-prints*, arXiv-2301. _Super long_ article (sorry!), but it covers everything we discuss in class and more. Just read what you need.
@@ -134,6 +142,7 @@ Covers Lectures 11–13.
 Selection bias, label bias and measurement error.
 
 Readings:
+
 - Barocas, S., Hardt, M., & Narayanan, A. (2019). [Fairness and machine learning](https://fairmlbook.org/). Chapter 2: When is automated decision making legitimate? A very good book on fairness in machine learning. This chapter covers the main types of bias that can arise in datasets.
 - Mehrabi, N., Morstatter, F., Saxena, N., Lettich, A., & Galstyan, A. (2021). [A survey on bias and fairness in machine learning.](https://arxiv.org/abs/1908.09635) *ACM Computing Surveys (CSUR)*, *54*(6), 1-35. A comprehensive survey of bias and fairness in machine learning. Quite technical, but the introduction and conclusion are accessible.
 - Suresh, H., & Guttag, J. V. (2019). [A framework for understanding unintended consequences of machine learning.](https://dl.acm.org/doi/10.1145/3287560.3287598) In *Conference on Fairness, Accountability, and Transparency* (pp. 1-10). A good framework for thinking about biases.
@@ -170,6 +179,7 @@ Covers Lectures 15–17.
 American AI Initiative, OECD principles, EU AI Act summary and how rules influence design.
 
 Readings:
+
 - The White House. (2025). [Winning the race: America's AI action plan](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf). What the US government wants to do about AI.
 - OECD. (2019). [OECD AI principles](https://oecd.ai/en/ai-principles). The original text of the OECD AI principles. Just skim the main points.
 - OECD. (2024). [Recommendation of the council on artificial intelligence](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449). Again, just skim the main points.
@@ -182,6 +192,7 @@ Readings:
 Practical implications of GDPR-style rules for datasets and deployed systems.
 
 Readings:
+
 - European Union. (2016). [General Data Protection Regulation (GDPR).](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679) The original text of the GDPR. Don't worry about reading the whole thing; just skim the main points.
 - Hoofnagle, C. J., Van Der Sloot, B., & Borgesius, F. Z. (2019). [The European Union general data protection regulation: what it is and what it means.](https://www.tandfonline.com/doi/full/10.1080/13600834.2019.1573501) *Information & Communications Technology Law*, 28(1), 65-98. Much easier to read than the original GDPR text. Read this one instead if you want a summary.
 - Wachter, S., Mittelstadt, B., & Floridi, L. (2017). [Why a right to explanation of automated decision-making does not exist in the general data protection regulation.](https://doi.org/10.1093/idpl/ipx005) *International data privacy law*, 7(2), 76-99. A critical look at the "right to explanation" in GDPR.
@@ -192,6 +203,7 @@ Readings:
 How automation affects jobs; augmentation strategies and policy responses.  
 
 Readings:
+
 - Korinek, A., & Suh, D. (2024). [Scenarios for the Transition to AGI (No. w32255).](https://www.nber.org/system/files/working_papers/w32255/w32255.pdf) National Bureau of Economic Research. How output and wages behave under different scenarios for technological progress.
 - Acemoglu, D., & Restrepo, P. (2019). [Automation and new tasks: How technology displaces and reinstates labor.](https://www.aeaweb.org/articles?id=10.1257/jep.33.2.3) *Journal of Economic Perspectives*, 33(2), 3-30. A comprehensive review of how automation affects jobs.
 - Restrepo, P. (2025). [We won't be missed: work and growth in the era of AGI.](https://www.nber.org/books-and-chapters/economics-transformative-ai/we-wont-be-missed-work-and-growth-era-agi) NBER Chapters. Some scholars suggest we will live in an age of abundance, others that we will all be unemployed. What if the truth is somewhere in between?
