@@ -14,9 +14,29 @@ This repository contains the source materials for [DATASCI 185: Introduction to 
 - **Instructor**: [Danilo Freire](https://danilofreire.github.io)
 - **Email**: <danilo.freire@emory.edu>
 
-### Course Materials
+## Course Content
 
-All course materials, including lecture notes, assignments, and supplementary resources, are available on the course website.
+The course covers six main modules:
+
+1. **Orientation** - Introduction to AI and course overview
+2. **How AI systems are designed** - Dataset design, learning paradigms
+3. **Language and perception** - Natural language processing and computer vision
+4. **Retrieval, generation and pipelines** - Modern AI systems and workflows
+5. **Data ethics and bias** - Ethical considerations and bias mitigation
+6. **Policy, governance and social impact** - Regulation, privacy, and societal effects
+
+## Course Materials
+
+All course materials, including lecture notes, assignments, and supplementary resources, are available in this repository.
+
+## Getting Help
+
+If you have questions about the course materials:
+
+1. Check the [course website](https://danilofreire.github.io/datasci185)
+2. Review the syllabus and lecture materials
+3. Contact the instructor at [danilo.freire@emory.edu](mailto:danilo.freire@emory.edu)
+4. [Open an issue](https://github.com/danilofreire/datasci185/issues) on GitHub
 
 ## Repository Structure
 
@@ -40,9 +60,17 @@ The course website is hosted on the **gh-pages branch** and includes:
 
 To view the website, switch to the `gh-pages` branch or visit the GitHub Pages site.
 
+## Contributing
+
+While this repository is primarily maintained by the course instructor, contributions are welcome. Please feel free to:
+
+- [Open an issue](https://github.com/danilofreire/datasci185/issues) to report problems
+- [Create a pull request](https://github.com/danilofreire/datasci185/pulls) with improvements
+- [Start a discussion](https://github.com/danilofreire/datasci185/discussions) about course topics
+
 ## License
 
-This course material is shared under [the MIT License](https://github.com/danilofreire/datasci185/blob/main/LICENSE.md). 
+This course material is shared under [the MIT License](https://github.com/danilofreire/datasci185/blob/main/LICENSE.md). You are free to use, modify, and distribute the materials with appropriate attribution.
 
 ## Contact
 
